@@ -16,6 +16,8 @@ tags:
 
 ###### This is a Heading h6
 
+![enormous jpg](https://www.kew.org/sites/default/files/2020-01/View%20over%20Loder%20Valley%20at%20Wakehurst%20in%20winter.jpg "my enormous jpg")
+
 ## Emphasis
 
 *This text will be italic*\
