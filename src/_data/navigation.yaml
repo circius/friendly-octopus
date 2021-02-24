@@ -1,10 +1,12 @@
 ---
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
-  - text: Blog
-    url: "/blog"
+  - text: visiter
+    url: "/visiter"
+  - text: 24 jardins
+    url: "/jardins"
+  - text: actualités
+    url: "/actualités"
+  - text: "chambres d'hôtes et réceptions"
+    url: "/hospitalité"
+  - text: "collections botaniques"
+    url: "/collections"
