@@ -5,7 +5,10 @@
 }'>
     {% if carousel.slides %}
         {% for slide in carousel.slides %}
-            <img src="{{slide.url}}" alt="{{slide.alt}}" class="carousel-cell w-full"/>
+            <figure class="carousel-cell w-full">
+                <img src="{{slide.url}}" alt="{{slide.alt}}"/>
+                <figcaption>{{slide.text}}</figcaption>
+            </figure>
         {% endfor %}
     {% endif %}
 </div>
