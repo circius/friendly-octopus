@@ -1,0 +1,15 @@
+<div class="main-carousel h-96 w-full" data-flickity='{
+ "cellAlign": "left",
+ "contain": true
+}'>
+    {% if carousel.slides %}
+        {% for slide in carousel.slides %}
+            <div class="carousel-cell">
+                <figure>
+                    <img src="{{slide.url}}" alt="{{slide.alt}}"/>
+                    <figcaption>{{slide.text}}</figcaption>
+                </figure>
+            </div>
+        {% endfor %}
+    {% endif %}
+</div>
