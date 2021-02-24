@@ -1,8 +1,5 @@
 ---
 slides:
-  - url: "/static/img/in-winter.jpg"
-    text: "le jardin, hiver"
-    alt: "the garden in winter"
   - url: "/static/img/in-winter-2.jpg"
     text: "pont vers bonheur"
     alt: "the garden in winter"
@@ -11,4 +8,7 @@ slides:
     alt: "the garden in winter"
   - url: "/static/img/in-winter-4.jpg"
     text: "qqc de sacré"
+    alt: "the garden in winter"
+  - url: "/static/img/in-winter.jpg"
+    text: "le jardin, hiver"
     alt: "the garden in winter"
